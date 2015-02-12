@@ -2,12 +2,12 @@ $:.unshift File.expand_path("../lib", __FILE__)
 require "quickeebooks/version"
 
 Gem::Specification.new do |gem|
-  gem.name     = "quickeebooks"
+  gem.name     = "quickeebooks_id_hack"
   gem.version  = Quickeebooks::VERSION
 
   gem.author   = "Cody Caughlan"
   gem.email    = "toolbag@gmail.com"
-  gem.homepage = "http://github.com/ruckus/quickeebooks"
+  gem.homepage = "http://github.com/ruckus/quickeebooks_id_hack"
   gem.summary  = "REST API to Quickbooks Online/Windows via Intuit Data Services"
   gem.license  = 'MIT'
   gem.description = gem.summary
