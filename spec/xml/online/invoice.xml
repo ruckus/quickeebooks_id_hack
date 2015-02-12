@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Invoice xmlns="http://www.intuit.com/sb/cdm/v2" xmlns:qbp="http://www.intuit.com/sb/cdm/qbopayroll/v1" xmlns:qbo="http://www.intuit.com/sb/cdm/qbo">
+	<Id idDomain="QBO">13</Id>
+	<SyncToken>0</SyncToken>
+	<MetaData>
+		<CreateTime>2012-07-16T15:48:34-07:00</CreateTime>
+		<LastUpdatedTime>2012-07-16T15:48:34-07:00</LastUpdatedTime>
+	</MetaData>
+	<Header>
+		<DocNumber>1</DocNumber>
+		<TxnDate>2012-07-16-07:00</TxnDate>
+		<CustomerId idDomain="QBO">10</CustomerId>
+		<ShipDate>2012-07-17-07:00</ShipDate>
+		<ToBePrinted>false</ToBePrinted>
+		<ToBeEmailed>false</ToBeEmailed>
+		<DueDate>2012-08-16-07:00</DueDate>
+		<ShipMethodId idDomain="QBO" />
+		<Balance>0.00</Balance>
+		<DiscountTaxable>true</DiscountTaxable>
+	</Header>
+	<Line>
+		<Desc>2005 Edna Valley Chardonnay</Desc>
+		<Taxable>false</Taxable>
+		<ItemId idDomain="QBO">9</ItemId>
+		<UnitPrice>225</UnitPrice>
+		<Qty>2</Qty>
+	</Line>
+</Invoice>

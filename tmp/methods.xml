@@ -1,0 +1,184 @@
+<RestResponse xmlns="http://www.intuit.com/sb/cdm/v2">
+	<ShipMethods>
+		<ShipMethod>
+			<Id idDomain="QB">53</Id>
+			<MetaData>
+				<CreateTime>2015-02-11T19:55:02Z</CreateTime>
+				<LastUpdatedTime>2015-02-11T19:55:02Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Adriano</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">52</Id>
+			<MetaData>
+				<CreateTime>2014-11-12T18:03:10Z</CreateTime>
+				<LastUpdatedTime>2014-11-12T18:03:10Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Express Deliver</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">51</Id>
+			<MetaData>
+				<CreateTime>2014-08-19T19:48:03Z</CreateTime>
+				<LastUpdatedTime>2014-08-19T19:48:03Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Hillebrand</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">50</Id>
+			<MetaData>
+				<CreateTime>2014-08-06T17:35:09Z</CreateTime>
+				<LastUpdatedTime>2014-08-06T17:35:09Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Stephanie</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">49</Id>
+			<MetaData>
+				<CreateTime>2014-07-01T19:08:15Z</CreateTime>
+				<LastUpdatedTime>2014-07-01T19:08:15Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Kevin</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">48</Id>
+			<MetaData>
+				<CreateTime>2014-05-01T20:52:56Z</CreateTime>
+				<LastUpdatedTime>2014-05-01T20:52:56Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Molly</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">47</Id>
+			<MetaData>
+				<CreateTime>2014-05-01T15:39:39Z</CreateTime>
+				<LastUpdatedTime>2014-05-01T15:39:39Z</LastUpdatedTime>
+			</MetaData>
+			<Name>David</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">46</Id>
+			<MetaData>
+				<CreateTime>2014-04-23T18:24:56Z</CreateTime>
+				<LastUpdatedTime>2014-04-23T18:24:56Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Echo</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">45</Id>
+			<MetaData>
+				<CreateTime>2014-03-21T19:55:04Z</CreateTime>
+				<LastUpdatedTime>2014-03-21T19:55:04Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Jim Kuhner</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">44</Id>
+			<MetaData>
+				<CreateTime>2014-02-24T06:49:25Z</CreateTime>
+				<LastUpdatedTime>2014-02-24T06:49:25Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Argot/ Justin</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">43</Id>
+			<MetaData>
+				<CreateTime>2014-02-13T21:29:16Z</CreateTime>
+				<LastUpdatedTime>2014-02-13T21:29:16Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Joe</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">42</Id>
+			<MetaData>
+				<CreateTime>2014-01-28T01:47:38Z</CreateTime>
+				<LastUpdatedTime>2014-01-28T01:47:38Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Jason</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">41</Id>
+			<MetaData>
+				<CreateTime>2014-01-14T23:04:18Z</CreateTime>
+				<LastUpdatedTime>2014-01-14T23:04:18Z</LastUpdatedTime>
+			</MetaData>
+			<Name>N/A</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">40</Id>
+			<MetaData>
+				<CreateTime>2014-01-09T01:51:47Z</CreateTime>
+				<LastUpdatedTime>2014-01-09T01:51:47Z</LastUpdatedTime>
+			</MetaData>
+			<Name>In House</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">39</Id>
+			<MetaData>
+				<CreateTime>2013-11-26T22:44:57Z</CreateTime>
+				<LastUpdatedTime>2013-11-26T22:44:57Z</LastUpdatedTime>
+			</MetaData>
+			<Name>OWT</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">38</Id>
+			<MetaData>
+				<CreateTime>2013-11-25T19:42:01Z</CreateTime>
+				<LastUpdatedTime>2013-11-25T19:42:01Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Chris</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">37</Id>
+			<MetaData>
+				<CreateTime>2013-11-04T22:31:31Z</CreateTime>
+				<LastUpdatedTime>2013-11-04T22:31:31Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Direct ship</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">36</Id>
+			<MetaData>
+				<CreateTime>2013-10-22T22:25:30Z</CreateTime>
+				<LastUpdatedTime>2013-10-22T22:25:30Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Whse Transfer</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">35</Id>
+			<MetaData>
+				<CreateTime>2013-10-08T19:59:49Z</CreateTime>
+				<LastUpdatedTime>2013-10-08T19:59:49Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Andre Mack</Name>
+			<Active>true</Active>
+		</ShipMethod>
+		<ShipMethod>
+			<Id idDomain="QB">34</Id>
+			<MetaData>
+				<CreateTime>2013-10-02T20:16:47Z</CreateTime>
+				<LastUpdatedTime>2013-10-02T20:16:47Z</LastUpdatedTime>
+			</MetaData>
+			<Name>Derek</Name>
+			<Active>true</Active>
+		</ShipMethod>
+	</ShipMethods>
+</RestResponse>

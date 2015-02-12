@@ -1,0 +1,9 @@
+<ShipMethod>
+	<Id idDomain="QB">53</Id>
+	<MetaData>
+		<CreateTime>2015-02-11T19:55:02Z</CreateTime>
+		<LastUpdatedTime>2015-02-11T19:55:02Z</LastUpdatedTime>
+	</MetaData>
+	<Name>Adriano</Name>
+	<Active>true</Active>
+</ShipMethod>
